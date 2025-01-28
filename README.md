@@ -8,8 +8,7 @@ Problem Statement:
 Dataset Overview: This dataset appears to represent details about travel packages, including their pricing, destinations, and categories. It contains information useful for analyzing travel trends, pricing strategies, and customer preferences.
 
 Columns and Descriptions:
-
-Package Name: Name or title of the travel package.
+Package Name: Name or title of the travel package. <br>
 Actual_price: Original price of the package.
 Package_Price: Discounted price of the package.
 City: Primary destination city.
